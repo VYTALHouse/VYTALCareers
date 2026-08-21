@@ -2,7 +2,7 @@
 
 Public careers experience, role architecture, recruiting standards and onboarding specifications.
 
-**Umbrella:** [VYTAL Enterprise](https://github.com/ChaunDon5000/VYTALEnterprise)
+**Umbrella:** [VYTAL Enterprise](https://github.com/VYTALHouse/VYTALEnterprise)
 **Stage:** Planned
 **Brand platform:** Change Your State.
 
@@ -34,9 +34,9 @@ tests/      Contract, integration and quality tests
 
 ## Related repositories
 
-- [VYTALEnterprise](https://github.com/ChaunDon5000/VYTALEnterprise)
-- [VYTALOperations](https://github.com/ChaunDon5000/VYTALOperations)
-- [VYTALBranding](https://github.com/ChaunDon5000/VYTALBranding)
+- [VYTALEnterprise](https://github.com/VYTALHouse/VYTALEnterprise)
+- [VYTALOperations](https://github.com/VYTALHouse/VYTALOperations)
+- [VYTALBranding](https://github.com/VYTALHouse/VYTALBranding)
 
 ## Public-repository guardrails
 
