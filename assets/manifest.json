@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "repository": "VYTALCareers",
+  "asOf": "2026-08-21",
+  "assets": [],
+  "requiredFields": [
+    "id",
+    "filename",
+    "subject",
+    "source",
+    "owner",
+    "license",
+    "project",
+    "stage",
+    "approvalStatus",
+    "approvedBy",
+    "approvedAt",
+    "destinations",
+    "supersedes"
+  ]
+}
